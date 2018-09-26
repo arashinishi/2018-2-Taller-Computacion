@@ -18,7 +18,7 @@ Alan Lisboa - Daniel Pavez - Gabriel Sanhueza
 ## ¿Qué les gustaría aprender?
 ---
 ## Encuesta
-### https://goo.gl/forms/2cNEsN2pIgKdLYBm2
+https://goo.gl/forms/2cNEsN2pIgKdLYBm2
 ---
 ### Google Drive
 
