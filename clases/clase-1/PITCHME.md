@@ -46,4 +46,4 @@ Repartir las distintas partes del informe entre los integrantes:
 - Introducción
 - Desarrollo (2 integrantes)
 - Conclusión
-- Bibliografía (Todos los enlaces a ñas fuentes utilizadas).
+- Bibliografía (Todos los enlaces a las fuentes utilizadas).
