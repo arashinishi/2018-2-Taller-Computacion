@@ -9,7 +9,7 @@ Alan Lisboa - Daniel Pavez - Gabriel Sanhueza
 ### Objetivos
 
 - Alfabetización digital.
-- Principios de funcionamiento del computador.
+- Principios básicos de computación.
 - Opcional: Programación básica.
 
 ---
