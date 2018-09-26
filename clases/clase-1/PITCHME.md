@@ -18,8 +18,9 @@ Alan Lisboa - Daniel Pavez - Gabriel Sanhueza
 ## ¿Qué les gustaría aprender?
 ---
 ## Encuesta
+### https://goo.gl/forms/2cNEsN2pIgKdLYBm2
 ---
-## Google Drive
+### Google Drive
 
 Especie de carpeta en la nube de Google, la cual permite:
 - Subir archivos.
@@ -29,7 +30,7 @@ Especie de carpeta en la nube de Google, la cual permite:
 
 @fa(arrow-down)
 +++
-## Google Drive
+### Google Drive
 
 1. Crear cuenta de Gmail.
 2. Ingresar a drive.google.com
@@ -38,7 +39,7 @@ Especie de carpeta en la nube de Google, la cual permite:
 5. Dar permisos de acceso al resto de integrantes a la carpeta.
 6. Editar en el archivo en manera colaborativa.
 ---
-## Informe
+### Informe
 
 Repartir las distintas partes del informe entre los integrantes:
 - Portada
