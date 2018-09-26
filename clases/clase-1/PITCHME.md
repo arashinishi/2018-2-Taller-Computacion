@@ -28,7 +28,7 @@ Especie de carpeta en la nube de Google, la cual permite:
 - Editar documentos de forma colaborativa en tiempo real.
 - Hacer uso de ésta por medio de la aplicación móvil.
 
-@fa(arrow-down)
+@fa[arrow-down]
 +++
 ### Google Drive
 
