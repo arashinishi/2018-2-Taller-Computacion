@@ -2,7 +2,7 @@
 @title[Introducción]
 
 @snap[west headline text-white span-100]
-Taller de Computación<br>@size[1.5em](Clase 2)
+Taller de Computación<br>@size[-1em](Clase 2)
 @snapend
 
 @snap[south-west byline  text-white]

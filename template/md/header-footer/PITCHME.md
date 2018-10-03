@@ -12,7 +12,7 @@
 @size[1.5em](Google Drive)
 @snapend
 
-@snap[west span-100]
+@snap[south-west span-100]
 Carpeta en la nube de Google que permite:
 @ul[bullet-green](false)
 - Subir archivos.
@@ -30,7 +30,7 @@ Carpeta en la nube de Google que permite:
 @size[1.5em](Google Drive)
 @snapend
 
-@snap[west span-100]
+@snap[south-west span-100]
 @ol[bullet-green](false)
 - Ingresar a *drive.google.com*.
 - Crear cuenta de Gmail (en caso de no tener una).
@@ -50,7 +50,7 @@ Carpeta en la nube de Google que permite:
 @size[1.5em](Google Drive)
 @snapend
 
-@snap[west span-100]
+@snap[south-west span-100]
 Repartir las distintas partes del informe entre los integrantes:
 @ul[bullet-green](false)
 - Portada
