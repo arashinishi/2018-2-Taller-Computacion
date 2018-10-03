@@ -1,12 +1,12 @@
 ---?color=linear-gradient(to right, #26408B, #89CCFF)
 @title[Introducción]
 
-@snap[west headline text-white span-100]
+@snap[midpoint headline text-white span-100]
 Taller de Computación<br>
 *@css[clase](Clase 2)*
 @snapend
 
-@snap[south-west byline  text-white]
+@snap[south byline text-white]
 Alan Lisboa - Daniel Pavez - Gabriel Sanhueza
 @snapend
 
