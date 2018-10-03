@@ -20,7 +20,7 @@ Carpeta en la nube de Google que permite:
 - Editar documentos de forma colaborativa en tiempo real (Google Docs).
 - Hacer uso de ésta por medio de la aplicación móvil.
 @ulen
-<br><br><br>
+<br><br><br><br>
 @snapend
 
 
@@ -41,7 +41,7 @@ Carpeta en la nube de Google que permite:
 - Crear un documento al interior de la carpeta.
 - Editar en el archivo en manera colaborativa.
 @olend
-<br>
+<br><br>
 @snapend
 
 
@@ -61,5 +61,5 @@ Repartir las distintas partes del informe entre los integrantes:
 - Conclusión
 - Bibliografía (Todos los enlaces a las fuentes utilizadas)
 @ulend
-<br>
+<br><br><br>
 @snapend
