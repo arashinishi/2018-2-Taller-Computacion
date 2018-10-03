@@ -14,7 +14,7 @@ theme-override : template/css/PITCHME.css
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "Taller de Computación - Clase 2"
 
 #
 # Highlight (Code) Setting
