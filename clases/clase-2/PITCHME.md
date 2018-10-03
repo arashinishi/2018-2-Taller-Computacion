@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #082265, #0392D8)
+---?color=linear-gradient(to right, #3078DE, #F2BA42)
 ## @color[white](Taller de Computación)
 ### @color[white](Clase 2)
 
