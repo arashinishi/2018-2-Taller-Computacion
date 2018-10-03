@@ -42,7 +42,7 @@
 }
 
 .split-screen-list li::before {
-  color: #FF5600 !important;
+  color: #4487F2 !important;
   background-color: white !important;
 }
 
@@ -236,7 +236,7 @@
   padding: 3px 10px;
   margin-right: 15px;
   border-radius: 3px;
-  background-color: #F26225;
+  background-color: #4487F2;
   content: counter(step-counter);
 }
 

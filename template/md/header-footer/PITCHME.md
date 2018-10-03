@@ -19,8 +19,7 @@ Carpeta en la nube de Google que permite:
 - Compartir archivos y carpetas con otros usuarios.
 - Editar documentos de forma colaborativa en tiempo real (Google Docs).
 - Hacer uso de ésta por medio de la aplicación móvil.
-@ulend
-<br><br>
+@ulen
 @snapend
 
 
@@ -33,7 +32,7 @@ Carpeta en la nube de Google que permite:
 
 @snap[west span-100]
 @ol[bullet-green](false)
-- Ingresar a @color[text-blue](drive.google.com)
+- Ingresar a *drive.google.com*.
 - Crear cuenta de Gmail (en caso de no tener una).
 - Un integrante de su equipo debe darnos su correo.
 - Se dará acceso a una carpeta al equipo.
@@ -41,7 +40,6 @@ Carpeta en la nube de Google que permite:
 - Crear un documento al interior de la carpeta.
 - Editar en el archivo en manera colaborativa.
 @olend
-<br><br>
 @snapend
 
 
@@ -61,5 +59,4 @@ Repartir las distintas partes del informe entre los integrantes:
 - Conclusión
 - Bibliografía (Todos los enlaces a las fuentes utilizadas)
 @ulend
-<br><br>
 @snapend
