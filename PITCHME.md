@@ -51,7 +51,7 @@ Carpeta en la nube de Google que permite:
 - Se dará acceso a una carpeta al equipo.
 - Dar permisos de acceso al resto de integrantes a la carpeta.
 - Crear un documento al interior de la carpeta.
-- Editar en el archivo en manera colaborativa.
+- Editar el documento de forma colaborativa.
 @olend
 <br><br>
 @snapend
