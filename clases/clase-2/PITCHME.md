@@ -18,19 +18,19 @@ Carpeta en la nube de Google, la cual permite:
 +++
 ### Google Drive
 
-1. Crear cuenta de Gmail.
-2. Ingresar a drive.google.com
+1. Ingresar a drive.google.com
+2. Crear cuenta de Gmail (en caso de no tener una).
 3. Un integrante de su equipo debe darnos su correo.
 4. Se dará acceso a una carpeta al equipo.
 5. Dar permisos de acceso al resto de integrantes a la carpeta.
 6. Crear un documento al interior de la carpeta.
 7. Editar en el archivo en manera colaborativa.
 ---
-### Informe
+### Informes o presentaciones
 
 Repartir las distintas partes del informe entre los integrantes:
 - Portada
 - Introducción
-- Desarrollo (2 integrantes)
+- Desarrollo
 - Conclusión
-- Bibliografía (Todos los enlaces a las fuentes utilizadas).
+- Bibliografía (Todos los enlaces a las fuentes utilizadas)
