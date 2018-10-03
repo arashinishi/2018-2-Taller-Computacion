@@ -6,7 +6,7 @@ Taller de Computación<br>
 *@css[clase](Clase 2)*
 @snapend
 
-@snap[south byline text-white]
+@snap[south byline text-white span-100]
 Alan Lisboa - Daniel Pavez - Gabriel Sanhueza
 @snapend
 
