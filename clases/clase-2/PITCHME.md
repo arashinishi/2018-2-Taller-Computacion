@@ -1,38 +1,42 @@
----?color=linear-gradient(to right, #3078DE, #F2BA42)
-## @color[white](Taller de Computación)
-### @color[white](Clase 2)
+---?color=linear-gradient(to right, #26408B, #97F3FE)
+@title[Introduction]
 
-<br>
+@snap[west headline text-white span-70]
+Taller de Computación
+Clase 2
+@snapend
 
-@color[white](Alan Lisboa - Daniel Pavez - Gabriel Sanhueza)
+@snap[south-west byline  text-white]
+Alan Lisboa - Daniel Pavez - Gabriel Sanhueza
+@snapend
 
----?image=assets/img/bg/blue.jpg&position=top&size=100% 20%
-@title[Header Bar + Image Body]
+---?image=template/img/bg/blue.jpg&position=top&size=100% 20%
+@title[Header Bar + List Body]
 
 @snap[north text-white span-100]
 @size[1.5em](Google Docs)
 @snapend
 
-Carpeta en la nube de Google, la cual permite:
-
-@ol[list-bullets-black](false)
+@snap[south span-100]
+@ul[bullet-green](false)
 - Subir archivos.
 - Compartir archivos y carpetas con otros usuarios.
 - Editar documentos de forma colaborativa en tiempo real (Google Docs).
 - Hacer uso de ésta por medio de la aplicación móvil.
-@olend
+@ulend
+<br><br>
+@snapend
 
-
-@fa[arrow-down text-black]
-+++?image=assets/img/bg/blue.jpg&position=top&size=100% 20%
-@title[Header Bar + Image Body]
++++?image=template/img/bg/blue.jpg&position=top&size=100% 20%
+@title[Header Bar + List Body]
 
 @snap[north text-white span-100]
 @size[1.5em](Google Docs)
 @snapend
 
-@ol
-- Ingresar a drive.google.com
+@snap[south span-100]
+@ol[bullet-green](false)
+- Ingresar a @color[text-blue](drive.google.com)
 - Crear cuenta de Gmail (en caso de no tener una).
 - Un integrante de su equipo debe darnos su correo.
 - Se dará acceso a una carpeta al equipo.
@@ -40,16 +44,24 @@ Carpeta en la nube de Google, la cual permite:
 - Crear un documento al interior de la carpeta.
 - Editar en el archivo en manera colaborativa.
 @olend
----?image=assets/img/bg/blue.jpg&position=top&size=100% 20%
-@title[Header Bar + Image Body]
+<br><br>
+@snapend
+
+---?image=template/img/bg/blue.jpg&position=top&size=100% 20%
+@title[Header Bar + List Body]
 
 @snap[north text-white span-100]
 @size[1.5em](Informes o presentaciones)
 @snapend
 
+@snap[south span-100]
 Repartir las distintas partes del informe entre los integrantes:
+@ul[bullet-green](false)
 - Portada
 - Introducción
 - Desarrollo
 - Conclusión
 - Bibliografía (Todos los enlaces a las fuentes utilizadas)
+@ulend
+<br><br>
+@snapend
