@@ -32,7 +32,7 @@ Carpeta en la nube de Google que permite:
 @snapend
 
 @snap[south-west span-100]
-@ol[bullet-green](false)
+@ol
 - Ingresar a *drive.google.com*.
 - Crear cuenta de Gmail (en caso de no tener una).
 - Un integrante de su equipo debe darnos su correo.
