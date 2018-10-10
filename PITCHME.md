@@ -47,12 +47,12 @@ Alan Lisboa - Daniel Pavez - Gabriel Sanhueza
 @snapend
 
 @snap[south-west span-100]
-@ul[bullet-green](false)
+@ol
 - Cada grupo debe elegir una banda o grupo musical.
 - Traten de utilizar los conocimientos vistos.
 - Crear una tabla con datos aleatorios, con las ventas de los discos del grupo.
 - Consulten si tienen dudas.
-@ulend
+@olend
 <br><br><br><br><br><br>
 @snapend
 
