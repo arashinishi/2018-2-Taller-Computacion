@@ -3,12 +3,13 @@
 
 @snap[midpoint headline text-white span-100]
 Taller de Computación<br>
-*@css[clase](Clase 2)*
+*@css[clase](Clase 3)*
 @snapend
 
 @snap[south byline text-white span-100]
 Alan Lisboa - Daniel Pavez - Gabriel Sanhueza
 @snapend
+
 
 ---?image=template/img/pencils.jpg
 @title[Google Drive]
@@ -58,20 +59,18 @@ Carpeta en la nube de Google que permite:
 
 
 +++?image=template/img/bg/blue.jpg&position=top&size=100% 20%
-@title[Google Drive - Tarea]
+@title[Google Drive - Actividad]
 
 @snap[north text-white span-100]
 @size[1.5em](Google Drive)
 @snapend
 
 @snap[south-west span-100]
-Repartir las distintas partes del informe entre los integrantes:
 @ul[bullet-green](false)
-- Portada
-- Introducción
-- Desarrollo
-- Conclusión
-- Bibliografía (Todos los enlaces a las fuentes utilizadas)
+- Cada grupo debe elegir una banda o grupo musical.
+- Traten de utilizar los conocimientos vistos.
+- Crear una tabla con datos aleatorios, con las ventas de los discos del grupo.
+- Consulten si tienen dudas.
 @ulend
 <br><br><br>
 @snapend
