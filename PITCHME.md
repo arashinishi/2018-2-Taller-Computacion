@@ -19,25 +19,6 @@ Alan Lisboa - Daniel Pavez - Gabriel Sanhueza
 @fa[arrow-down text-black]
 
 +++?image=template/img/bg/blue.jpg&position=top&size=100% 20%
-@title[Google Drive - Intro]
-
-@snap[north text-white span-100]
-@size[1.5em](Google Drive)
-@snapend
-
-@snap[south-west span-100]
-Carpeta en la nube de Google que permite:
-@ul[bullet-green](false)
-- Subir archivos.
-- Compartir archivos y carpetas con otros usuarios.
-- Editar documentos de forma colaborativa en tiempo real (Google Docs).
-- Hacer uso de ésta por medio de la aplicación móvil.
-@ulen
-<br><br><br><br>
-@snapend
-
-
-+++?image=template/img/bg/blue.jpg&position=top&size=100% 20%
 @title[Google Drive - Actividad]
 
 @snap[north text-white span-100]
@@ -72,6 +53,6 @@ Carpeta en la nube de Google que permite:
 - Crear una tabla con datos aleatorios, con las ventas de los discos del grupo.
 - Consulten si tienen dudas.
 @ulend
-<br><br><br>
+<br><br><br><br><br><br>
 @snapend
 
