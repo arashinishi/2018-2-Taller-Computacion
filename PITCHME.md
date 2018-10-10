@@ -53,6 +53,6 @@ Alan Lisboa - Daniel Pavez - Gabriel Sanhueza
 - Crear una tabla con datos aleatorios, con las ventas de los discos del grupo.
 - Consulten si tienen dudas.
 @olend
-<br><br><br><br>
+<br><br><br><br><br>
 @snapend
 
